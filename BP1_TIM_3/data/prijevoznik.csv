@@ -1,0 +1,36 @@
+id,naziv_tvrtke,oib,kontakt_telefon,email,zajamceni_rok_isporuke
+1,Flash Express d.o.o.,87139562041,+385 1 750 1100,info@flashexpress.hr,1
+2,Brza Pošta d.o.o.,32987456122,+385 1 750 1200,info@brzaposta.hr,1
+3,Turbo Courier d.o.o.,70246819357,+385 91 702 3301,info@turbocourier.hr,2
+4,Alpine Delivery d.o.o.,56473920819,+385 51 720 4402,info@alpinedelivery.hr,2
+5,Nordic Parcel d.o.o.,91028374659,+385 31 703 5503,info@nordicparcel.hr,2
+6,Baltic Shipments d.o.o.,64892157380,+385 20 704 6604,info@balticshipments.hr,3
+7,Danube Logistics d.o.o.,23098417568,+385 42 705 7705,info@danubelogistics.hr,3
+8,Adriatic Cargo d.o.o.,78204195367,+385 21 706 8806,info@adriaticcargo.hr,3
+9,Carpathian Freight d.o.o.,49582061374,+385 35 707 9907,info@carpathianfreight.hr,4
+10,Pannonian Courier d.o.o.,86753014926,+385 31 709 1129,info@pannonian-courier.hr,4
+11,Riviera Rapid d.o.o.,30284751968,+385 20 710 1230,info@rivierarapid.hr,2
+12,Atlantic Air Cargo d.o.o.,74125896341,+385 1 711 1341,info@atlanticaircargo.hr,2
+13,Pacific Shipments d.o.o.,68943071259,+385 1 712 1452,info@pacificshipments.hr,3
+14,Tyrol Parcel d.o.o.,92847153086,+385 51 713 1563,info@tyrolparcel.hr,3
+15,Iberia Express d.o.o.,57412098643,+385 1 714 1674,info@iberiaexpress.hr,2
+16,Lusitania Couriers d.o.o.,61357482905,+385 1 715 1785,info@lusitaniacouriers.hr,2
+17,Hellenic Logistics d.o.o.,45618273950,+385 1 716 1896,info@helleniclogistics.hr,2
+18,Baltic FastPost d.o.o.,73591028467,+385 1 717 1907,info@balticfastpost.hr,3
+19,AlpineFlyer d.o.o.,80169247538,+385 51 718 2018,info@alpineflyer.hr,3
+20,Danubius Express d.o.o.,35097642189,+385 1 719 2129,info@danubiusexpress.hr,3
+21,Balkan Express d.o.o.,51968423075,+381 11 708 1018,info@balkanexpress.rs,4
+22,Carniola Delivery d.o.o.,99021573864,+386 1 600 4455,info@carnioladelivery.si,4
+23,Vojvodina Post d.o.o.,28563947012,+381 24 721 2341,info@vojvodinapost.rs,4
+24,PannonPost d.o.o.,78014632958,+387 33 728 3118,info@pannonpost.ba,6
+25,Carpathia Courier SRL,65920187432,+40 264 730 3340,info@carpathiacourier.ro,7
+26,Montenegro Wing d.o.o.,41895672053,+382 20 732 3562,info@montenegrowing.me,7
+27,Epiro Express S.A.,97206354189,+30 2651 733 3673,info@epiroexpress.gr,7
+28,Skopje Parcel DOOEL,34287019568,+389 2 734 4456,info@skopjeparcel.mk,6
+29,Tirana Express sh.p.k.,50871396420,+355 4 735 5567,info@tiranaexpress.al,6
+30,Sarajevo Speed d.o.o.,33456789012,+387 33 736 6677,info@sarajevospeed.ba,5
+31,Rhine Rush GmbH,24378956108,+49 69 731 3451,info@rhinerush.de,7
+32,Northern Freight Ltd.,91382465701,+44 20 7499 8877,info@northernfreight.co.uk,6
+33,Viking Parcel AS,76321845906,+47 22 984 5566,info@vikingparcel.no,5
+34,Lusitan Freight Lda.,55678923147,+351 22 887 9988,info@lusitanfreight.pt,5
+35,Pyrenees Shipping SAS,62349871230,+33 4 888 1122,info@pyreneesshipping.fr,6

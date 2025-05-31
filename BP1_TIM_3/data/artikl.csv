@@ -1,0 +1,501 @@
+id,naziv,opis,cijena,kolicina,id_kategorija,id_dobavljac
+1,USB kabel 1m,"""Kvalitetni USB 2.0 kabel, dužine 1 metar""",4.47,478,4,9
+2,Kava mljevena 250g,"""Aromatična mljevena kava, pakiranje 250 g""",4.09,336,1,1
+3,Čokolada tamna 100g,"""Tamna čokolada s 70% kakaa, 100 g""",2.47,374,1,1
+4,Sapun tekući 500ml,"""Antibakterijski tekući sapun, 500 ml""",1.23,473,3,6
+5,Šampon za kosu 400ml,"""Šampon za svakodnevnu njegu kose, 400 ml""",6.38,338,3,6
+6,Pasta za zube 75ml,"""Zubna pasta s fluorom, 75 ml""",2.28,362,3,6
+7,Papir za pečenje 10m,"""Neljepljivi papir za pečenje, rola 10 m""",3.64,259,3,6
+8,Riža 1kg,"""Dugozrnata bijela riža, pakiranje 1 kg""",3.6,423,1,1
+9,Tjestenina fusilli 500g,"""Sušena tjestenina fusilli, 500 g""",2.36,280,1,1
+10,Maslinovo ulje 1l,"""Ekstra djevičansko maslinovo ulje, 1 l""",11.18,93,1,1
+11,Sok od naranče 1l,"""100% prirodni sok od naranče, 1 l""",2.04,401,2,5
+12,Voda gazirana 1.5l,"""Prirodna mineralna voda s mjehurićima, 1.5 l""",0.87,401,2,5
+13,Pivo lager 0.5l,"""Hladno filtrirani lager, boca 0.5 l""",1.67,340,2,5
+14,Vino bijelo 0.75l,"""Suho bijelo vino, butelja 0.75 l""",6.86,262,2,5
+15,Sir gauda 250g,"""Polutvrdi sir Gauda, pakiranje 250 g""",3.31,77,1,1
+16,Jogurt natur 180g,"""Prirodni jogurt bez dodataka, 180 g""",1.05,257,1,1
+17,Jaja L klasa 10kom,"""Svježa kokošja jaja L kategorije, 10 kom""",3.27,288,1,1
+18,Maslac 250g,"""Mliječni maslac, 250 g""",3.5,401,1,1
+19,Marmelada jagoda 370g,"""Domaća marmelada od jagode, 370 g""",3.31,60,1,1
+20,Med cvjetni 900g,"""Prirodni cvjetni med, staklenka 900 g""",8.94,463,1,2
+21,Mlijeko 2.8% 1l,"""Svježe mlijeko 2.8% m.m., 1 l""",1.07,141,1,2
+22,Toaletni papir 3 sloja 8/1,"""Toaletni papir, troslojni, 8 rola""",3.71,232,3,6
+23,Papirnate maramice 10x10,"""Papirnate maramice, pakiranje 10x10""",1.65,366,3,6
+24,Aluminijska folija 20m,"""Aluminijska kuhinjska folija, 20 m""",2.47,493,3,6
+25,Detergent za posuđe 900ml,"""Tekući detergent za ručno pranje posuđa, 900 ml""",2.22,448,3,6
+26,Tablete za perilicu posuđa 60kom,"""All-in-one tablete za perilicu, 60 kom""",7.84,236,3,6
+27,Sredstvo za čišćenje kupaonice 750ml,"""Sredstvo protiv kamenca za kupaonice, 750 ml""",3.8,329,3,6
+28,Krpa mikrofiber 2/1,"""Mikrofiber krpe za čišćenje, 2 kom""",1.86,45,3,7
+29,Baterije AA 4/1,"""Alkalne AA baterije, pakiranje 4 kom""",2.81,99,4,9
+30,Žarulja LED 9W E27,"""LED žarulja 9W, grlo E27""",3.44,260,4,9
+31,Produžni kabel 3m 4 utič.,"""Produžni kabel s 4 utičnice, 3 m""",10.38,380,4,9
+32,Punjač USB 2A,"""Mrežni punjač s USB izlazom 2A""",12.78,467,4,9
+33,Tipkovnica USB,"""Membranska USB tipkovnica""",13.53,246,4,9
+34,Miš optički USB,"""Optički USB miš, 1600 DPI""",10.78,284,4,9
+35,Slusalice in-ear,"""In-ear slušalice s mikrofonom""",11.16,399,4,9
+36,Powerbank 10000mAh,"""Prijenosna baterija 10000 mAh""",22.42,164,4,9
+37,Notna bilježnica A4,"""A4 bilježnica s notnim crtovljem""",3.53,121,5,12
+38,Kemijska olovka plava,"""Plava kemijska olovka, 0.7 mm""",0.83,292,5,12
+39,Blok samoljepljivih papirića 76x76,"""Samoljepljivi papirići 76x76 mm, 100 listova""",2.27,72,5,12
+40,Flomaster set 12 boja,"""Set flomastera, 12 boja""",5.47,383,5,12
+41,Fascikl plastificirani A4,"""Plastični fascikl A4 s gumicom""",2.12,119,5,12
+42,Sveska A5 karo 80l,"""Školska sveska A5 karo, 80 listova""",1.37,441,5,12
+43,Karton mapar A4,"""Karton mapar A4 za dokumente""",1.3,387,5,12
+44,Ljepljiva traka 19mm/33m,"""Prozirna ljepljiva traka 19 mm x 33 m""",1.07,48,5,12
+45,Prijenosni disk 1TB,"""Vanjski tvrdi disk 1 TB, USB 3.0""",64.76,327,4,9
+46,Memorijska kartica 64GB,"""microSD memorijska kartica 64 GB, class 10""",16.2,198,4,10
+47,Router Wi-Fi 300Mbps,"""Bežični router 300 Mbps""",20.72,228,4,10
+48,Toner HP 85A,"""Originalni toner HP 85A (CE285A)""",52.63,359,4,10
+49,Papir za printer A4 80g 500listova,"""Papir za ispis A4 80 g, 500 listova""",3.94,207,5,12
+50,Marker trajni crni,"""Trajni marker crne boje, okrugli vrh""",3.76,19,5,12
+51,Kuhinjski nož 20cm,"""Univerzalni kuhinjski nož od nehrđajućeg čelika, oštrica 20 cm""",9.62,157,3,7
+52,Tava teflon 24cm,"""Neljepljiva tava s teflonskim premazom, promjer 24 cm""",14.38,112,3,7
+53,Pokrivalo silikon 3/1,"""Silikonska pokrivala za hranu, set od 3 različite veličine""",4.95,297,3,7
+54,Kava instant 200g,"""Instant kava premium, staklenka 200 g""",6.79,207,1,2
+55,Pekmez od šljiva 370g,"""Domaći pekmez od šljiva bez dodanog šećera, 370 g""",3.89,83,1,2
+56,Čips slani 150g,"""Krumpirov čips s morskom soli, 150 g""",2.18,321,1,2
+57,Keksi integralni 250g,"""Hrskavi integralni keksi s cjelovitim žitaricama, 250 g""",2.94,264,1,2
+58,Piletina file 500g,"""Svježi pileći file, pakiranje 500 g""",4.72,142,1,2
+59,Losos filet 250g,"""Filet atlantskog lososa, vakuum pakiranje 250 g""",6.43,61,1,2
+60,Sir feta 200g,"""Bijeli meki sir feta, 200 g""",2.98,123,1,2
+61,Smoothie bobičasti 250ml,"""Hladno prešani smoothie od bobičastog voća, 250 ml""",1.97,295,2,5
+62,Energetsko piće 0.25l,"""Gazirano energetsko piće s kofeinom, limenka 0.25 l""",1.13,414,2,5
+63,Voda negazirana 0.5l,"""Prirodna izvorska voda bez plina, bočica 0.5 l""",0.53,532,2,5
+64,Vino crno 0.75l,"""Suho crno vino, butelja 0.75 l""",7.25,77,2,5
+65,Rakija šljivovica 0.7l,"""Tradicionalna rakija od šljive, 0.7 l""",12.44,266,2,5
+66,Omekšivač rublja 1l,"""Koncentrirani omekšivač za rublje, miris lavande, 1 l""",2.86,302,3,7
+67,Detergent za rublje 3l,"""Tekući deterdžent za strojno pranje rublja, 3 l""",7.31,157,3,7
+68,Čistač stakla 500ml,"""Sredstvo za čišćenje i sjaj staklenih površina, 500 ml""",1.98,264,3,7
+69,Mrežica za voće 5kg,"""Pamučna mrežasta torba za višekratnu kupovinu voća, nosivost 5 kg""",1.64,338,3,7
+70,Rukavice pamučne 1par,"""Pamučne rukavice za kućanske poslove, par""",0.89,411,3,7
+71,USB-C kabel 2m,"""Brzi USB-C na USB-A kabel, dužine 2 m""",5.26,385,4,10
+72,Adapter HDMI-VGA,"""Adapter s HDMI muški na VGA ženski izlaz""",8.14,122,4,10
+73,Punjač bežični 10W,"""Qi bežični punjač snage 10 W""",14.79,257,4,10
+74,SSD disk 512GB,"""Interni SSD 2.5 inča 512 GB, SATA III""",49.68,65,4,10
+75,Torba za laptop 15.6 inča,"""Zaštitna torba za laptop do 15.6 inča, vodootporna""",18.22,168,4,10
+76,Web kamera 1080p,"""USB web kamera Full HD 1080p s mikrofonom""",24.37,199,4,10
+77,Mikrofon USB kondenzatorski,"""Kondenzatorski mikrofon USB za streaming i podcast""",39.54,179,4,10
+78,Set odvijača 6kom,"""Precizni odvijači ravni i križni, set 6 komada""",5.76,208,3,7
+79,Čekić stolarski 500g,"""Stolarski čekić s drvenom drškom, 500 g""",7.28,131,3,8
+80,Kliješta kombinirana 180mm,"""Kombinirana kliješta 180 mm s ergonomskom drškom""",6.45,172,3,8
+81,Ljepilo stik 21g,"""Ljepilo u stiku 21 g za papir i karton""",1.14,203,5,13
+82,Bilježnica spiralna A5 200l,"""Spiralna bilježnica A5, 200 listova, linija""",2.07,348,5,13
+83,Registrator A4 široki,"""Kartonski registrator A4 širokog hrpta 75 mm""",2.55,276,5,13
+84,Korektor traka 8m,"""Korektor traka, širina 5 mm, dužina 8 m""",1.49,198,5,13
+85,Spajalice 28mm 1000kom,"""Metalne spajalice 28 mm, kutija 1000 komada""",1.35,142,5,13
+86,Pastele uljne 24 boje,"""Umjetničke uljne pastele, set 24 boje""",4.79,66,5,13
+87,Markeri bijela ploča 4kom,"""Set markera za bijelu ploču, 4 boje""",3.62,155,5,13
+88,Kutija kartonska 40x30x30,"""Valovita kartonska kutija 40×30×30 cm""",2.21,117,5,13
+89,Folija streč 500mm,"""Industrijska streč folija, širine 500 mm, težine 1.5 kg""",5.94,132,3,8
+90,Čaj zeleni 30 filtera,"""Zeleni čaj u filter vrećicama, 30 komada""",2.65,312,2,5
+91,Začin mediteran 40g,"""Suha začinska mješavina mediteranskih biljaka, 40 g""",1.43,184,1,2
+92,Ulje bučino 0.5l,"""Hladno prešano bučino ulje, 0.5 l""",10.31,69,1,3
+93,Ocat jabučni 1l,"""Prirodni jabučni ocat, 1 l""",1.58,312,1,3
+94,Kukuruz šećerac 340g,"""Konzervirani slatki kukuruz, 340 g""",1.29,236,1,3
+95,Grah crveni 400g,"""Konzervirani crveni grah u slanoj otopini, 400 g""",1.37,211,1,3
+96,Marmelada marelica 370g,"""Marmelada od marelice, 370 g""",3.42,95,1,3
+97,Pesto genovese 190g,"""Umak pesto Genovese s bosiljkom i pinjolima, 190 g""",3.76,122,1,3
+98,Pizza smrznuta 400g,"""Smrznuta pizza margherita, 400 g""",2.94,135,1,3
+99,Sladoled vanilija 1l,"""Kremasti sladoled od vanilije, obiteljsko pakiranje 1 l""",4.17,87,1,3
+100,Krastavci kiseli 670g,"""Kiseli krastavci u staklenci, 670 g""",2.21,148,1,3
+101,Čokoladni krem namaz 350g,"""Čokoladni krem od lješnjaka, staklenka 350 g""",3.84,212,1,3
+102,Muesli voćni 500g,"""Mješavina müsli sa suhim voćem, pakiranje 500 g""",2.95,178,1,4
+103,Suncokretovo ulje 1l,"""Rafinirano suncokretovo ulje, PET boca 1 l""",1.49,301,1,4
+104,Šećer kristal 1kg,"""Bijeli kristalni šećer, vrećica 1 kg""",1.05,356,1,4
+105,Brašno glatko T-550 1kg,"""Pšenično glatko brašno tip 550, vrećica 1 kg""",0.89,268,1,4
+106,Sardine u ulju 125g,"""Sardine u biljnom ulju, konzerva 125 g""",1.27,193,1,4
+107,Tuna komadi u salamuri 185g,"""Komadi tune u laganoj salamuri, konzerva 185 g""",2.12,222,1,4
+108,Kečap blagi 500g,"""Blagi kečap od rajčice, boca 500 g""",1.36,267,1,4
+109,Majoneza delikates 400g,"""Delikates majoneza, staklenka 400 g""",2.59,123,1,4
+110,Slani štapići 250g,"""Hrskavi slani štapići, pakiranje 250 g""",1.11,319,1,4
+111,Krekeri integralni 200g,"""Integralni krekeri sa sezamom, 200 g""",1.64,245,1,4
+112,Bademi prženi 150g,"""Prženi i slani bademi, vrećica 150 g""",4.98,104,1,50
+113,Čaj kamilica 20 filtera,"""Čaj od cvijeta kamilice, 20 filter vrećica""",1.23,290,2,50
+114,Čokoladni puding 4x125g,"""Čokoladni puding, paket 4 × 125 g""",1.76,177,1,50
+115,Jogurt voćni jagoda 330g,"""Voćni jogurt okus jagoda, čašica 330 g""",1.09,262,1,50
+116,Sir trapist 300g,"""Polutvrdi sir Trapist, pakiranje 300 g""",3.87,92,1,50
+117,Kobasica domaća 400g,"""Blago dimljena domaća kobasica, vakuum 400 g""",4.24,69,1,50
+118,Hrenovke pureće 1kg,"""Pureće hrenovke bez glutena, pakiranje 1 kg""",4.65,138,1,50
+119,USB hub 4 porta,"""USB 3.0 hub s 4 brza porta""",8.75,227,4,11
+120,Čitač kartica USB 3.0,"""Multi čitač SD/microSD kartica, USB 3.0""",6.43,183,4,11
+121,"Monitor LED 24\"" FHD","""LED monitor 24\ 1920×1080 HDMI/DP""",122.45,54,4,11
+122,Tipkovnica bežična,"""Bežična tipkovnica s niskim profilom tipki""",17.36,145,4,11
+123,Miš gaming RGB,"""Gaming miš 7200 DPI s RGB osvjetljenjem""",21.82,199,4,11
+124,Slušalice gaming over-ear,"""Over-ear gaming slušalice s mikrofonom""",32.64,138,4,11
+125,Speaker Bluetooth 20W,"""Prijenosni Bluetooth zvučnik 20 W""",27.81,92,4,11
+126,Kamera akcijska 4K,"""Vodootporna akcijska kamera 4K/30 fps""",59.44,78,4,11
+127,Pametna žarulja Wi-Fi E27,"""LED žarulja E27 s Wi-Fi upravljanjem, 9 W""",11.32,213,4,11
+128,Punjač auto 3.4A,"""Dvostruki USB auto punjač 3.4 A""",5.09,267,4,11
+129,Kabel Lightning 1m,"""Lightning kabel za iPhone/iPad, dužine 1 m""",6.85,331,4,49
+130,Grafička kartica GTX1650,"""NVIDIA GTX 1650 4 GB GDDR6 grafička kartica""",189.9,46,4,49
+131,Spremnik za olovke metalni,"""Metalna mrežasta čaša za olovke""",2.18,174,5,13
+132,Guma za brisanje 2/1,"""Komplet od 2 gumice za brisanje""",0.64,402,5,13
+133,Šiljilo dvostruko,"""Dvostruko metalno šiljilo za olovke""",0.92,239,5,49
+134,Ravnalo metal 30cm,"""Metalno ravnalo 30 cm s graviranom skalom""",1.43,214,5,49
+135,Folija plastificiranje A4 100/1,"""Folije za plastificiranje A4, set 100 kom""",6.21,88,5,49
+136,Koverte C5 50/1,"""Bijele C5 kuverte s trakicom, 50 kom""",3.37,147,5,49
+137,Markeri tekstualni 4 boje,"""Set fluorescentnih markera, 4 boje""",2.96,168,5,49
+138,Blok za crtanje A3 80g,"""Blok papira A3 80 g/m², 20 listova""",2.19,101,5,49
+139,Etikete samoljepljive 100/1,"""Samoljepljive etikete 70×37 mm, 100 kom""",3.12,129,5,49
+140,Fascikla harmonika 13 pretinaca,"""Plastična harmonika fascikla s 13 pretinaca""",3.75,193,5,49
+141,Vrećice za smeće 60l 20/1,"""Crne vrećice za smeće 60 l, rola 20 kom""",2.08,218,3,8
+142,Gel za tuširanje 250ml,"""Gel za tuširanje s aloe verom, 250 ml""",1.96,276,3,8
+143,Dezodorans roll-on 50ml,"""Roll-on dezodorans bez alkohola, 50 ml""",2.64,144,3,8
+144,Krema za ruke 100ml,"""Hidratantna krema za ruke s karite maslacem, 100 ml""",2.83,152,3,8
+145,Pamučni štapići 200/1,"""Pamučni higijenski štapići, 200 kom""",0.85,326,3,8
+146,Brisač poda s krpom,"""Plosnati brisač poda s mikrovlaknenom krpom""",7.44,89,3,8
+147,Odmašćivač kuhinjski 750ml,"""Snažan sprej za odmašćivanje kuhinjskih površina, 750 ml""",3.27,174,3,8
+148,Osvježivač WC tablete 2/1,"""WC osvježivač u tabletama, pakiranje 2 kom""",1.56,219,3,50
+149,Sok jabuka 1l,"""100 % prirodni sok od jabuke, 1 l""",1.78,267,2,50
+150,Pivo IPA 0.5l,"""Craft pivo IPA, boca 0.5 l""",2.12,113,2,50
+151,Lopta nogometna V5,"""Nogometna lopta veličine 5, PU površina""",14.25,327,6,14
+152,Lopta košarkaška V7,"""Košarkaška lopta veličine 7, gumirana""",17.48,263,6,14
+153,Utezi bučice 2x5kg,"""Set bučica od lijevanog željeza, 2 × 5 kg""",24.87,396,6,14
+154,Prostirka za jogu 6mm,"""Protuklizna joga prostirka debljine 6 mm""",9.65,467,6,14
+155,Traka elastična za vježbanje,"""Elastična fitness traka, srednji otpor""",4.12,501,6,14
+156,Konopac za preskakanje čelični,"""Podesivi čelični konop za preskakanje""",6.74,249,6,14
+157,Rukavice fitness M,"""Podstavljene fitness rukavice veličina M""",7.86,118,6,14
+158,Boca sportska 750ml,"""Sportska boca za vodu, BPA free, 750 ml""",4.53,244,6,14
+159,Štitnici za koljena S/M,"""EVA štitnici za koljena, veličina S/M""",8.39,242,6,14
+160,Daska za balans drvena,"""Drvena balans-daska promjera 40 cm""",19.22,174,6,14
+161,Puzzle 1000 'Duboko more',"""Puzzle s motivom podmorja, 1000 kom""",7.29,152,7,16
+162,Kocke drvene set 50kom,"""Set od 50 drvenih kocaka u boji""",11.18,171,7,16
+163,Lutka platnena 35cm,"""Platnena lutka s pletenom kosom, visina 35 cm""",9.46,68,7,16
+164,Autić metalni 1:64,"""Metalni model automobila mjerilo 1:64""",3.12,303,7,16
+165,Plastelin set 12 boja,"""Mekani plastelin u 12 boja, netoksičan""",5.38,190,7,16
+166,Plišana panda 25cm,"""Meka plišana igračka panda, 25 cm""",8.77,101,7,16
+167,Dječji bubanj set,"""Mini bubanj set s dvije palice""",13.54,57,7,16
+168,Građevinski set 250kom,"""Konstrukcijske kocke kompatibilne, 250 kom""",16.92,84,7,16
+169,Šah magnetski putni,"""Putni šah s magnetskim figurama""",6.47,141,7,16
+170,Teleskop dječji 20x,"""Plastični teleskop za djecu, uvećanje 20×""",14.63,49,7,16
+171,Hrana za pse govedina 3kg,"""Suha hrana za pse s govedinom, 3 kg""",6.37,112,8,18
+172,Hrana za mačke losos 2kg,"""Suha hrana za mačke s lososom, 2 kg""",5.92,98,8,18
+173,Povodac najlonski 1.5m,"""Najlonski povodac dužine 1.5 m, crveni""",3.14,245,8,18
+174,Posuda dupla inox 2x400ml,"""Inox dupla zdjela 2 × 400 ml na stalku""",7.05,132,8,18
+175,Igračka mačka štap-perje,"""Štap igračka s perjem za mačke""",1.98,287,8,18
+176,Krevetić za psa M,"""Plišani krevetić M (60 × 45 cm)""",18.29,73,8,18
+177,Pijesak za mačke 10l,"""Bentonitni pijesak, miris lavande, 10 l""",3.54,211,8,18
+178,Ogrlica reflektirajuća L,"""Reflektirajuća najlonska ogrlica L""",4.26,166,8,18
+179,Grickalice pseće štapići 200g,"""Žvakalice za pse, govedina, 200 g""",2.47,152,8,18
+180,Akvarij filter 600L/h,"""Unutarnji filter do 150 l, protočnost 600 L/h""",23.86,58,8,18
+181,Brisači set 530/450mm,"""Metlice brisača 530 + 450 mm s univerzalnim adapterom""",8.97,194,9,20
+182,Ulje motorno 5W-30 1l,"""Sintetičko motorno ulje 5W-30 ACEA C3, 1 l""",7.43,248,9,20
+183,Žarulje H7 55W 2/1,"""Halogene žarulje H7 55 W, 2 kom""",5.56,517,9,20
+184,Punjač akumulatora 6/12V,"""Automatski punjač 6/12 V, 4 A""",32.18,246,9,20
+185,Navlaka sjedalo univerzalna,"""Navlaka za prednje auto sjedalo, univerzalna""",12.64,395,9,20
+186,Kompresor prijenosni 12V,"""Prijenosni kompresor 12 V do 150 PSI""",25.72,347,9,20
+187,Tekućina stakla -20°C 5l,"""Zimska tekućina za pranje stakla do −20 °C, 5 l""",3.21,296,9,20
+188,Kabeli za paljenje 400A 3m,"""Startni kablovi 400 A, duljina 3 m""",9.84,265,9,20
+189,Držač mobitela ventilacija,"""Univerzalni držač mobitela za ventilacijski otvor""",4.35,273,9,20
+190,Tester tlaka guma digitalni,"""Digitalni manometar 0–8 bar, LCD zaslon""",6.78,414,9,20
+191,Svijeća mirisna lavanda 150g,"""Sojina svijeća mirisa lavande, 150 g""",3.67,406,10,22
+192,Okvir foto 10x15 drvo,"""Drveni okvir 10 × 15 cm, natur""",4.22,188,10,22
+193,Ukrasni jastuk 45x45 zeleni,"""Ukrasni jastuk 45 × 45 cm, zelena pliš tkanina""",7.96,99,10,22
+194,Vaza keramička 25cm,"""Keramička vaza mat bijela, visina 25 cm""",12.73,74,10,22
+195,LED lanterna dekor 30cm,"""Dekorativna LED lanterna, visina 30 cm""",14.39,141,10,22
+196,Zidni sat vintage 30cm,"""Okrugli zidni sat vintage dizajn, 30 cm""",11.56,83,10,22
+197,Tepih pamučni 60x90,"""Pamučni tepih ravnog tkanja 60 × 90 cm""",9.17,138,10,22
+198,Stolnjak pamuk 140x200,"""Pamučni stolnjak 140 × 200 cm, karirani""",10.84,172,10,22
+199,Podmetači pluteni 6/1,"""Pluteni podmetači za čaše, set 6 kom""",3.05,412,10,22
+200,Zavjesa blackout 140x245,"""Blackout zavjesa s ringovima 140 × 245 cm""",19.95,266,10,22
+201,Set bučica vinil 2x3kg,"""Vinilne bučice obložene PVC-om, set od 2 × 3 kg""",17.54,88,6,15
+202,Reket za tenis aluminijski,"""Aluminijski reket za rekreativni tenis, grip 2""",26.87,65,6,15
+203,Odbojkaška lopta V5,"""Lopta za odbojku veličine 5, PU površina""",13.29,124,6,15
+204,Pumpa ručna za loptu,"""Kompaktna ručna pumpa s iglom za lopte""",2.83,247,6,15
+205,Teretni pojas s utezima 5kg,"""Pojas za trčanje s uklonjivim uteznim vrećicama ukupno 5 kg""",14.92,72,6,15
+206,Roler štitnici za zglobove L,"""Set štitnika za koljena, laktove i dlanove, veličina L""",18.41,98,6,15
+207,Štoperica digitalna,"""Vodootporna digitalna štoperica s memorijom 60 vremena""",9.63,154,6,15
+208,Ruksak trail 20l,"""Lagan trail ruksak kapaciteta 20 l s mrežastim leđima""",24.37,57,6,15
+209,Biciklistička kaciga M,"""Kaciga za bicikl s 18 otvora, veličina M (55-59 cm)""",29.84,66,6,15
+210,Bidon aluminijski 650ml,"""Aluminijski bidon s brzim ventilom, 650 ml""",6.12,213,6,15
+211,Puzzle 500 'Stari grad',"""Puzzle od 500 dijelova s motivom srednjovjekovnog grada""",4.72,173,7,17
+212,Plastelin Glow 6 boja,"""Svjetleći plastelin u 6 boja, netoksična formula""",4.17,192,7,17
+213,Radioupravljeni auto 1:20,"""RC automobil skala 1:20, domet 30 m""",18.95,84,7,17
+214,Plišana žirafa 30cm,"""Meka plišana žirafa visine 30 cm""",7.68,119,7,17
+215,Lutka modna s odjećom,"""Modna lutka 29 cm s dodatnom odjećom""",10.56,97,7,17
+216,Igra memorije Životinje,"""Kartonska igra memorije s 48 kartica životinja""",3.29,211,7,17
+217,Vlak drveni set 40kom,"""Drveni vlak s tračnicama, set od 40 elemenata""",15.73,74,7,17
+218,Pištolj na vodu 600ml,"""Plastični pištolj na vodu kapaciteta 600 ml""",3.58,182,7,17
+219,Set magičnih karata trik,"""Špil karata s uputama za 10 magičnih trikova""",2.84,136,7,17
+220,Kinetički pijesak 1kg,"""Kinetički pijesak u kutiji, težina 1 kg""",6.49,164,7,17
+221,Sapun šampon za pse 250ml,"""2-u-1 sapun i šampon sa zobom, 250 ml""",3.96,147,8,19
+222,Češalj za mačke metalni,"""Metalni češalj s dvostrukim zupcima za mačke""",2.37,192,8,19
+223,Akvarij biljke plastika 6/1,"""Set od 6 dekorativnih plastičnih biljaka za akvarij""",4.21,88,8,19
+224,Sjemenke za ptice 2kg,"""Mješavina sjemenki za kanarince i zebice, 2 kg""",4.86,109,8,19
+225,Hrana za hrčke 800g,"""Kompletna hrana za hrčke s voćem, 800 g""",3.52,95,8,19
+226,Transporter mačka 48x32x30,"""Plastični transporter s metalnim vratima 48×32×30 cm""",21.45,61,8,19
+227,Fontana za vodu ljubimci 2l,"""Električna fontana zapremine 2 l s filterom""",19.73,57,8,19
+228,Grebalica stup 60cm,"""Grebalica za mačke, stup obložen sisalom visine 60 cm""",17.82,86,8,19
+229,Kaputić za psa S,"""Vodootporni kaputić za pse male pasmine, veličina S""",9.16,114,8,19
+230,Vrećice za izmet 4x15,"""Rola vrećica za pseći izmet, 4 × 15 kom""",1.92,273,8,19
+231,Prekrivač gepek vodootporni,"""Vodootporni zaštitni prekrivač prtljažnika 140×120 cm""",18.56,77,9,21
+232,Kofer auto krovni 400l,"""Plastični krovni kofer zapremine 400 l sa zaključavanjem""",139.84,34,9,21
+233,Pasta za poliranje metalik 250ml,"""Pasta za obnovu metalik laka, 250 ml""",6.27,102,9,21
+234,Gumene prostirke set,"""Univerzalne gumene podne prostirke, set 4 kom""",17.42,89,9,21
+235,Sjajilo za gume 500ml,"""Sprej sjajilo i zaštita za gume, 500 ml""",4.67,123,9,21
+236,Čistač klima sprej 500ml,"""Antibakterijski sprej za čišćenje auto klime, 500 ml""",5.91,98,9,21
+237,Auto utičnica USB QC3.0,"""Punjač u upaljač s dvostrukim USB QC 3.0 izlazom""",7.84,183,9,21
+238,Kit za krpanje gume,"""Crijevo i brzi čepovi za hitan popravak gume""",5.36,112,9,21
+239,Navlaka volan eko koža,"""Navlaka za volan od eko kože Ø 38 cm""",6.18,141,9,21
+240,Osvježivač zraka auto limun 3/1,"""Kartice osvježivača zraka miris limuna, 3 kom""",1.83,207,9,21
+241,Ukrasna svijeća stup 10x7,"""Dekorativna svijeća stup 10×7 cm, boja pijeska""",3.44,186,10,23
+242,Košara pletena 30cm,"""Okrugla pletena košara promjera 30 cm""",8.91,98,10,23
+243,Lampioni LED bakrena žica 3m,"""LED lampioni na bakrenoj žici, dužina 3 m, USB""",6.75,129,10,23
+244,Ogledalo okruglo 40cm,"""Okruglo zidno ogledalo s kožnom trakom Ø 40 cm""",21.56,53,10,23
+245,Figura dekorativna slon 15cm,"""Keramička figura slona visine 15 cm, zlatna""",7.08,157,10,23
+246,Saksija keramička 18cm,"""Keramička saksija s uzorkom promjera 18 cm""",6.92,113,10,23
+247,Pladanj drveni servirni 45cm,"""Prijanjajući drveni servirni pladanj 45×30 cm""",9.37,64,10,23
+248,Jastučić mirisni ormar 2/1,"""Mirisni jastučići za ormar, lavanda, 2 kom""",2.49,214,10,23
+249,Poster zidni 'Planine' A2,"""Art poster s motivom planina, format A2""",4.63,121,10,23
+250,Stalak za svijeće metalni 2/1,"""Set metalnih svijećnjaka, 2 visine""",11.27,72,10,23
+251,Škare za živicu teleskopske,"""Teleskopske škare za rezanje živice, duljina 70–100 cm""",18.47,76,11,24
+252,Kanta za zalijevanje 10l,"""Plastična zelena zalijevača kapaciteta 10 l""",4.28,134,11,24
+253,Motika uska 16cm,"""Uska motika širine sječiva 16 cm, drvena drška""",3.97,89,11,24
+254,Rukavice vrtne XL,"""Vrtne rukavice presvučene lateksom, veličina XL""",2.34,211,11,24
+255,Sjekira kamperska 600g,"""Kompaktna kamperska sjekira težine 600 g s omčom""",11.76,57,11,24
+256,Kolica za vrt 65l,"""Plastična vrtna kolica zapremine 65 l""",23.92,42,11,24
+257,Crijevo vrtno 20m,"""PVC vrtno crijevo Ø ½\ duljina 20 m""",11.35,98,11,24
+258,Prskalica ručna 5l,"""Ručna tlačna prskalica zapremine 5 l""",15.66,64,11,24
+259,Sjemenke rajčica 30g,"""Sjeme sorte „Volovsko srce”, 30 g""",1.42,187,11,24
+260,Folija agrotekstil 1x10m,"""Crni agrotekstil 50 g/m², rola 1 × 10 m""",6.84,106,11,24
+261,Mikser ručni 300W,"""Električni ručni mikser 300 W, 5 brzina""",21.48,73,12,26
+262,Toster dvostruki 800W,"""Toster s dva utora, 6 stupnjeva zapečenosti, 800 W""",19.63,88,12,26
+263,Blender stakleni 1.5l,"""Stakleni blender 1,5 l, nož od nehrđ. čelika""",28.95,52,12,26
+264,Čajnik električni 1.7l,"""Električni čajnik 2 200 W, kapacitet 1,7 l, inox""",17.24,96,12,26
+265,Pekač kruha 750g,"""Automatski pekač kruha do 750 g, 12 programa""",45.31,33,12,26
+266,Aparat za kavu kapsule,"""Espresso aparat za kapsule, tlak 19 bar""",68.42,27,12,26
+267,Rezač hrane električni,"""Električni rezač debljine reza 0–15 mm, 150 W""",54.87,21,12,26
+268,Dehidrator voća 250W,"""Aparat za sušenje voća i povrća, 5 pladnjeva""",38.26,44,12,26
+269,Aparat za vafle 700W,"""Električni pekač za vafle 700 W, neprianjajući""",24.18,58,12,26
+270,Multipraktik 600W,"""Kuhinjski robot 600 W s deset nastavaka""",79.54,19,12,26
+271,Knjiga 'Na Drini ćuprija',"""Ivo Andrić, tvrdi uvez, 368 str.""",11.72,81,13,28
+272,Knjiga 'Mali princ',"""Antoine de Saint-Exupéry, meki uvez, 96 str.""",6.45,233,13,28
+273,Knjiga '1984' - Orwell,"""George Orwell, meki uvez, 352 str.""",8.37,173,13,28
+274,Kuharica mediteranska,"""Kulinarski recepti Mediterana, 250 str.""",14.26,242,13,28
+275,Roman 'Derviš i smrt',"""Meša Selimović, tvrdi uvez, 504 str.""",12.88,69,13,28
+276,Priručnik 'Osnove programiranja',"""Uvod u Python i C++, 420 str.""",19.74,218,13,28
+277,Atlas svijeta ilustrirani,"""Ilustrirani atlas A3, 312 str.""",22.63,101,13,28
+278,Zbirka poezije 'Balade P. K.',"""Miroslav Krleža, 160 str., meki uvez""",7.29,282,13,28
+279,Strip 'Alan Ford' #1,"""Prvo izdanje, 128 str.""",4.56,251,13,28
+280,Enciklopedija biljaka,"""Velika enciklopedija vrtnih biljaka, 720 str.""",33.42,29,13,28
+281,Majica pamučna L,"""Muška pamučna majica, bijela, veličina L""",5.37,187,14,30
+282,Traperice muške 32/32,"""Regular-fit traperice, veličina 32/32""",29.82,74,14,30
+283,Jakna softshell M,"""Softshell jakna otporna na vjetar, veličina M""",49.63,52,14,30
+284,Haljina cvjetna S,"""Lagana ljetna haljina s cvjetnim uzorkom, veličina S""",26.14,68,14,30
+285,Čarape sportske 3/1,"""Set od 3 para sportskih čarapa 39-42""",3.28,236,14,30
+286,Cipele kožne br.42,"""Muške kožne cipele, veličina 42, smeđe""",71.48,27,14,30
+287,Duks s kapuljačom XL,"""Pamučni duks s kapuljačom, crni, XL""",32.29,61,14,30
+288,Kapa pletena unisex,"""Pletena zimska kapa, tamnosiva""",6.17,149,14,30
+289,Ruksak platneni 18l,"""Platneni gradski ruksak kapaciteta 18 l""",13.74,82,14,30
+290,Papuče kućne br.39,"""Mekane kućne papuče, veličina 39, plave""",7.49,109,14,30
+291,Stol blagovaonski 120x80,"""Blagovaonski stol od bukve 120 × 80 cm""",142.63,64,15,32
+292,Stolica sklopiva drvena,"""Sklopiva stolica od bukve, natur lak""",26.87,132,15,32
+293,Komoda 3 ladice bijela,"""Komoda MDF s tri ladice 80 × 40 × 75 cm""",119.54,177,15,32
+294,Polica zidna 60cm,"""Zidna polica MDF dužine 60 cm, bijela""",17.26,171,15,32
+295,Ormar garderobni 180x80,"""Ormar 180 × 80 × 52 cm, dva krila""",259.84,196,15,32
+296,Tabure baršunasti okrugli,"""Okrugli tabure Ø 35 cm, plavi baršun""",32.56,148,15,32
+297,Klupa vrtna metalna,"""Metalna vrtna klupa dužine 120 cm""",108.43,83,15,32
+298,Noćni ormarić hrast,"""Noćni ormarić boje hrasta, ladica + polica""",42.79,172,15,32
+299,Krevet 160x200 s letvicama,"""Okvir kreveta 160 × 200 cm + podnice""",312.67,119,15,32
+300,Stolić za kavu 90x50,"""Stolić za kavu 90 × 50 cm, drvo/metal""",56.48,213,15,32
+301,Ruž za usne mat 05,"""Mat ruž za usne, nijansa 05, dugotrajna formula 4 g""",7.42,143,16,34
+302,Sjajilo za usne prozirno,"""Sjajilo s hijaluronskim učinkom, 7 ml""",4.36,198,16,34
+303,Puder kompaktni SPF15 10g,"""Kompaktni puder SPF 15, nijansa 02""",8.71,97,16,34
+304,Maskara volumen crna,"""Volumenska maskara otporna na razmazivanje, 10 ml""",6.58,176,16,34
+305,Paleta sjenila nude 12/1,"""Paleta sjenila u neutralnim tonovima, 12 × 1 g""",9.84,89,16,34
+306,Olovka za obrve tamnosmeđa,"""Automatska olovka za obrve s češljićem, 0.2 g""",3.47,211,16,34
+307,Lak za nokte klasični crveni,"""Lak za nokte brzog sušenja, 10 ml""",2.93,247,16,34
+308,BB krema light 30ml,"""BB krema s hidratantnim učinkom SPF 20, 30 ml""",5.75,162,16,34
+309,Sprej za fiksiranje make-up 100ml,"""Matirajući sprej za fiksiranje šminke, 100 ml""",6.11,134,16,34
+310,Set četkica za šminku 10/1,"""Set od 10 sintetičkih četkica za make-up s torbicom""",11.26,72,16,34
+311,Kofer kabinski tvrdi 55cm,"""ABS kofer zapremine 35 l, 55 × 36 × 22 cm""",47.89,54,17,35
+312,Torba na rame putna 20l,"""Putna torba od platna s remenom, 20 l""",18.37,108,17,35
+313,Ruksak trekking 45l,"""Planinarski ruksak 45 l s ventiliranim leđima""",59.68,61,17,35
+314,Vreća za spavanje −5 °C,"""Topla vreća za spavanje komfor do −5 °C, 1.3 kg""",42.15,39,17,35
+315,Putni jastuk na napuhavanje U,"""Putni jastuk U-oblika s pliš presvlakom""",5.26,192,17,35
+316,Organizatori prtljage 6/1,"""Tkanine vrećice i mreže za pakiranje, 6 dijelova""",12.94,127,17,35
+317,Brave TSA kombinacijske 2/1,"""Set od 2 TSA bravice s trocifrenom kombinacijom""",7.34,153,17,35
+318,Putni higijenski set 8/1,"""Mini toaletni komplet (četkica, pasta, sapun…)""",3.89,236,17,35
+319,Maska za spavanje mrežasta siva,"""Lagani sleep mask od mrežastog materijala""",2.47,218,17,35
+320,Boca sklopiva silikon 600ml,"""Silikonska sklopiva boca s karabinom, 600 ml""",6.78,142,17,35
+321,Pelene vel. 3 58/1,"""Jednokratne pelene (4-9 kg), 58 kom""",9.63,98,18,36
+322,Vlažne maramice baby 72/1,"""Hipoalergene vlažne maramice bez parfema, 72 kom""",1.87,264,18,36
+323,Bočica anti-kolik 260ml,"""Bočica s protukoličnim ventilom, 260 ml""",6.24,173,18,36
+324,Duda silikon 0-6 m 2/1,"""Ortodontske dude silikon, 2 kom""",4.19,183,18,36
+325,Krema za pelensko područje 100ml,"""Zaštitna krema sa cinkom i pantenolom""",3.78,156,18,36
+326,Štapići za bebe 60/1,"""Higijenski pamučni štapići s ograničivačem, 60 kom""",0.92,219,18,36
+327,Stolica za hranjenje sklopiva,"""Sklopiva stolica s pladnjem, podesiva visina""",59.43,28,18,36
+328,Ogradica igraonica 120×120,"""Podstavljeno igralište s mrežom, 120 × 120 cm""",69.17,22,18,36
+329,Zaštita utičnica 10/1,"""Sigurnosni čepovi za utičnice, 10 kom""",2.11,201,18,36
+330,Kolica kišobran easy,"""Lagano sklopiva kolica „kišobran”, 5 kg""",86.74,17,18,36
+331,Akvarel boje 24 pan,"""Set akvarel boja u 24 pločice + kist""",10.38,74,19,37
+332,Platno na okviru 40×50 cm,"""Pamučno slikarsko platno na okviru 40 × 50 cm""",6.97,121,19,37
+333,Kistovi okrugli set 5/1,"""Set od 5 okruglih kistova veličine 0-8""",3.15,165,19,37
+334,Glina polimerna crvena 56g,"""Polimerna glina, 56 g, crvena""",2.46,144,19,37
+335,Rezač papira rotacijski A4,"""Rotacijski rezač papira do A4, 10 listova""",17.86,51,19,37
+336,Maketa avion Spitfire 1:72,"""Plastična maketa Spitfire, skala 1:72""",12.28,88,19,37
+337,Pistolj za vruće ljepilo 20W,"""Mini pištolj 20 W + 2 patrone""",6.43,109,19,37
+338,Perle staklene mix 200g,"""Staklene perle raznih boja, 200 g""",4.57,137,19,37
+339,Žica bakrena 0.8 mm 10 m,"""Mekana bakrena žica Ø0.8 mm, 10 m""",2.83,172,19,37
+340,Album scrapbooking 30×30 40l,"""Spiralni album 30 × 30 cm, 40 listova""",8.95,66,19,37
+341,Termometar digitalni fleks,"""Digitalni termometar s fleksibilnim vrhom""",5.26,327,20,38
+342,Tlakomjer ručni aneroidni,"""Aneroidni tlakomjer s manšetom i pumpicom""",18.72,200,20,38
+343,Flaster vodootporni 20/1,"""Vodootporni flasteri raznih veličina, 20 kom""",1.17,311,20,38
+344,Zavoj elastični 10 cm × 4 m,"""Elastični zavoj s kopčama""",2.64,361,20,38
+345,Inhalator kompresorski,"""Kompresorski inhalator s maskama""",39.86,188,20,38
+346,Ortopedski jastuk za vrat,"""Memory jastuk ergonomski, navlaka bambus""",22.73,62,20,38
+347,Lumbalni pojas M,"""Potporni lumbalni pojas, veličina M""",17.32,78,20,38
+348,Masažer ručni infracrveni,"""Ručni masažer s IR grijanjem i 3 nastavka""",29.57,182,20,38
+349,Oksimetar pulsni prstni,"""Pulsni oksimetar s OLED zaslonom""",16.24,214,20,38
+350,Čarape kompresivne L,"""Kompresivne dokoljenke klasa 1, veličina L""",8.41,154,20,38
+351,Bušilica udarna 750W,"""Električna udarna bušilica snage 750 W, brzina 0–3000 o/min""",49.86,77,21,39
+352,Brusilica kutna 125mm 900W,"""Kutna brusilica disk 125 mm, snaga 900 W, 11 000 o/min""",42.37,68,21,39
+353,Ubodna pila 650W,"""Ubodna pila s laserskim pokazivačem, 650 W, dubina reza 80 mm""",46.21,55,21,39
+354,Odvijač akumulatorski 12V,"""Akumulatorski odvijač 12 V, 2 × 1.5 Ah, okretni moment 28 Nm""",59.44,93,21,39
+355,Klamerica električna 45W,"""Električna klamerica/spiker 45 W, 300 spajalica u kompletu""",29.78,112,21,39
+356,Pila sabljasta 800W,"""Sabljasta pila 800 W, hod 28 mm, 0–2800 h/min""",64.87,47,21,39
+357,Mjerač laser 30m,"""Laserski daljinomjer dometa 30 m, preciznost ± 2 mm""",38.92,130,21,39
+358,Pištolj za vrući zrak 2000W,"""Termo puhalica 2000 W, 300 / 600 °C, 2 stupnja""",25.64,101,21,39
+359,Kompresor klipni 24l,"""Zračni kompresor 24 l, 8 bar, motor 1.5 kW""",129.43,22,21,39
+360,Usisavač za pepeo 1200W,"""Usisavač za hladni pepeo 1200 W, spremnik 18 l""",34.57,58,21,39
+361,DSLR fotoaparat 24MP + 18-55,"""DSLR kamera 24 MP s objektivom 18–55 mm i Wi-Fi""",459.88,15,22,40
+362,Objectiv 50mm f/1.8,"""Prime objektiv 50 mm f/1.8 sa zaštitnim poklopcem""",119.35,32,22,40
+363,Stativ aluminijski 160cm,"""Aluminijski stativ visine do 160 cm, glava 3D""",34.26,64,22,40
+364,Torba za fotoaparat S,"""Kompaktna torba za DSLR i jedan objektiv, veličina S""",18.47,80,22,40
+365,Filter ND 67mm,"""Neutral-density filter ND8 Ø 67 mm""",12.78,110,22,40
+366,LED panel svjetlo 5600K,"""LED video panel 5600 K, 480 LED, CRI 95+, dimabilan""",73.49,41,22,40
+367,Mikrofon shotgun supercardioid,"""Puška mikrofon, supercardioid, +20 dB boost""",84.16,37,22,40
+368,Kartica CFexpress 128GB,"""CFexpress memorijska kartica 128 GB, VPG 400""",139.72,23,22,40
+369,Gimbal 3-osi za DSLR,"""Stabilizator 3 osi, nosivost 2.2 kg, OLED zaslon""",289.63,18,22,40
+370,Bljeskalica TTL univerzalna,"""Speedlite s TTL i HSS 1/8000, GN 60""",94.28,50,22,40
+371,Gitara akustična dreadnought,"""Akustična gitara Dreadnought, smreka/mahagonij""",119.87,44,23,41
+372,Ukulele koncert mahagonij,"""Koncertni ukulele od mahagonija, menzura 382 mm""",42.59,71,23,41
+373,Bubanj cajon birch,"""Peruanski cajon od breze s podesivim žicama""",87.32,28,23,41
+374,Klavijatura MIDI 49 tipki,"""USB MIDI kontroler 49 tipki s aftertouchom""",152.18,36,23,41
+375,Violina 4/4 set,"""Violina 4/4, gudalo, kolofonij i kofer u setu""",139.44,26,23,41
+376,Harmonika klasična 80 bas,"""Harmonika 34 tipke, 80 basova, crna""",689.85,9,23,41
+377,Truba Bb studentska,"""Studentska truba u Bb, monel ventili, futrola""",229.63,17,23,41
+378,Bubnjarske palice hickory 5A,"""Palice od hikorija model 5A, lakirane""",8.27,151,23,41
+379,Stalak za gitaru sklopivi,"""Sklopivi A-frame stalak za gitaru""",13.58,97,23,41
+380,Metronom mehanički drveni,"""Piramidalni mehanički metronom, drveno kućište""",28.41,62,23,41
+381,Pametna utičnica Wi-Fi,"""Wi-Fi utičnica s mjerenjem potrošnje, 16 A""",11.69,204,24,42
+382,Pametni termostat Zigbee,"""Zigbee radijatorski termostat s LCD-om""",29.46,77,24,42
+383,Senzor pokreta PIR smart,"""Wi-Fi PIR senzor, kut 120°, domet 7 m""",15.84,120,24,42
+384,Kamera sigurnosna IP 1080p,"""Vanjska IP kamera 1080p, IP66, noćni vid 30 m""",39.72,85,24,42
+385,Zvono pametno s kamerom,"""Video zvono 1080p, dvosmjerna komunikacija""",62.38,49,24,42
+386,LED traka RGB pametna 5m,"""Pametna RGB LED traka 5 m, upravljanje aplikacijom""",21.46,134,24,42
+387,Senzor curenja vode Wi-Fi,"""Wi-Fi senzor curenja vode s alarmom 90 dB""",17.28,96,24,42
+388,Pametna roleta motor Wi-Fi,"""Motor za rolete do 15 kg s Wi-Fi upravljanjem""",74.83,25,24,42
+389,Pametni IR hub univerzalni,"""Univerzalni IR/FW hub za klima uređaje""",24.57,112,24,42
+390,Senzor temperature Bluetooth,"""Bluetooth senzor temp./vlage s e-ink zaslonom""",12.93,183,24,42
+391,Konzola gaming 1TB,"""Konzola nove generacije, SSD 1 TB, 4K HDR""",469.84,21,25,43
+392,Kontroler bežični crni,"""Bežični gamepad, vibracija, USB-C punjenje""",59.26,98,25,43
+393,Igra PS5 'Ratnik',"""Akcijska avantura „Ratnik: Legenda” za PS5""",69.19,108,25,43
+394,Igra Switch 'Kart Racer',"""Trkaća arkada „Kart Racer Turbo” za Switch""",49.37,74,25,43
+395,Pretplata online 12m,"""12-mjesečna pretplata na mrežne usluge konzole""",44.82,152,25,43
+396,Slušalice gaming konzola,"""Over-ear slušalice s mikrofonom za konzole""",39.67,61,25,43
+397,Punjač kontrolera dual,"""Postolje za istovremeno punjenje 2 kontrolera""",24.58,125,25,43
+398,Figurica kolekcionarska limit,"""Limited edition figurica 18 cm, numerirana""",29.84,44,25,43
+399,Kod igra PC 'Strategija',"""Digitalni kod za PC igru „Galaktička Strategija”""",34.26,137,25,43
+400,Volan racing konzola,"""Volan s pedalama, povratna sila, PS5/Xbox/PC""",189.75,33,25,43
+401,Sat pametni GPS 1.43in,"""Pametni sat s AMOLED zaslonom 1,43 inča, GPS-om, 5 ATM, 14 dana baterije""",129.86,136,26,44
+402,Narukvica fitness OLED,"""Fitness tracker s OLED zaslonom, mjerač pulsa i SpO₂, 10 dana rada""",29.74,289,26,44
+403,Prsten pametni titan,"""Pametni prsten od titana, analiza sna i HRV-a, veličina 9""",199.45,67,26,44
+404,Naočale audio Bluetooth,"""Audio naočale s otvorenim zvučnicima, Bluetooth 5.2""",79.32,121,26,44
+405,Slušalice TWS ANC,"""True wireless slušalice s aktivnim poništavanjem buke, IPX4""",62.18,214,26,44
+406,Narukvica dječja GPS SOS,"""Dječji smartband s GPS praćenjem i SOS tipkom, IP67""",43.57,172,26,44
+407,Nakit sigurnosni SmartTag,"""Pametni privjesak s BLE locatorom i tipkom za hitne pozive""",18.96,244,26,44
+408,Senzor koraka clip-on,"""Clip-on brojač koraka s BT sinkronizacijom i ekranom""",17.23,198,26,44
+409,Pojas srčani monitor BT,"""Traka za mjerenje otkucaja srca Bluetooth, ANT+ kompatibilna""",39.48,155,26,44
+410,Naočale AR dječje edu,"""AR naočale za edukativne igre, prikaz holograma 720p""",119.83,54,26,44
+411,Printer laserski kolor MFP,"""Kolor laserski multifunkcijski pisač A4, Wi-Fi, 22 str./min""",279.65,38,27,45
+412,Skener dokumenata duplex,"""Dokument skener A4, duplex 60 ipm, ADF 80 listova""",249.47,27,27,45
+413,Laminator termalni A3,"""Laminator do A3, 2 valjka, 250 mikrona""",59.86,86,27,45
+414,Uništavač papira cross-cut,"""Uništavač papira 10 listova, cross-cut 4 × 35 mm""",74.23,66,27,45
+415,Uveznica spiralna električna,"""Električna spiralna uveznica do 500 listova, perforator""",119.37,31,27,45
+416,Fax uređaj termalni,"""Termalni fax s automatskim odgovaranjem i memorijom 28 str.""",92.54,48,27,45
+417,Projektor poslovni 4000 lm,"""LCD projektor 4000 lm, WXGA, HDMI + Wi-Fi""",398.85,23,27,45
+418,Stalak monitor gas-lift,"""Gas-lift nosač monitora do 32 inča, VESA 100 × 100""",39.74,114,27,45
+419,Shredder kartica CD,"""Uništavač kartica i CD-a, rez 5 × 25 mm, koš 18 l""",82.69,52,27,45
+420,Kopirni stroj A3 mono,"""Digitalni kopirni uređaj A3, 25 str./min, RADF""",1399.48,7,27,45
+421,Garnitura lounge ratan 5/1,"""Vanjska lounge garnitura od umjetnog ratana, 4 stolice + stol""",579.63,11,28,46
+422,Stol vrtni alu 150×90,"""Aluminijski vrtni stol 150 × 90 cm, staklena ploča""",169.28,24,28,46
+423,Stolica vrtna sklopiva tekstilen,"""Sklopiva vrtna stolica od aluminija i tekstilena""",42.17,89,28,46
+424,Ležaljka alu mesh podesiva,"""Podesiva ležaljka, aluminijski okvir, mrežasto platno""",97.45,32,28,46
+425,Suncobran bočni 3 m antracit,"""Bočni suncobran 3 m, UV50+ platno, ručno okretanje""",139.72,27,28,46
+426,Paviljon vrtni 3×4 m waterproof,"""Paviljon 3 × 4 m, vodootporno platno 180 g/m²""",219.41,18,28,46
+427,Hamak duo pamuk 200×150,"""Dvostruki hamak od pamuka 200 × 150 cm, nosivost 200 kg""",34.57,76,28,46
+428,Jastuk za stolice 46×46 crni,"""Jastuk za vrtne stolice 46 × 46 cm, vezice, crni""",8.19,143,28,46
+429,Roštilj ugljen vrtni barrel,"""Barrel roštilj na ugljen s termometrom, rešetka 53 cm""",117.86,41,28,46
+430,Njihalica vrtna 3-sjed,"""Trodijelna vrtna ljuljačka s tendom, nosivost 240 kg""",189.55,14,28,46
+431,Usisavač vertikalni 2u1 450 W,"""Bežični usisavač 2-u-1, motor 450 W, autonomija 40 min""",159.87,371,29,47
+432,Parni čistač podni 1500 W,"""Parni mop 1500 W, spremnik 500 ml, zagrijavanje 30 s""",68.42,182,29,47
+433,Aparat za pranje tepiha 1600 W,"""Injektor-ekstraktor 1600 W, spremnik 4 + 8 l""",228.34,174,29,47
+434,Kolica za čišćenje duo 25 l,"""Profesionalna kolica s dvije kante 2 × 25 l i cjedilom""",98.73,117,29,47
+435,Detergent podni ultra 5 l,"""Koncentrat za podove s mirisom bora, 5 l""",7.89,266,29,47
+436,Sprej dezinfekcijski 750 ml,"""Sprej za dezinfekciju površina, alkoholni, 750 ml""",4.67,272,29,47
+437,Krpe mikrovlakno roll 100/1,"""Rola od 100 jednokratnih mikrovlaknenih krpa 30 × 40 cm""",12.38,85,29,47
+438,Metla industrijska PVC 60 cm,"""Industrijska metla PVC vlakna, širina 60 cm + drška""",9.41,253,29,47
+439,Sušilica ruku HEPA 1800 W,"""Automatska sušilica ruku 1800 W, HEPA filter, 10 s""",119.28,212,29,47
+440,Perač visokotlačni 140 bar,"""Električni visokotlačni perač 140 bar, 2100 W""",147.52,309,29,47
+441,Solarni panel 410 W mono,"""Monokristalni solarni panel 410 W, učinkovitost 21,3 %""",189.63,33,30,48
+442,Inverter hibrid 6 kW 48 V,"""Hibridni inverter 6 kW, MPPT 120 A, Wi-Fi modul""",749.28,12,30,48
+443,Baterija LiFePO4 48 V 100 Ah,"""LiFePO₄ baterija 48 V, 100 Ah, 5000 ciklusa""",899.76,9,30,48
+444,Regulator MPPT 80 A 150 V,"""MPPT solarni kontroler 80 A, ulaz do 150 V""",219.43,18,30,48
+445,Konektor MC4 par,"""Komplet MC4 konektora muški + ženski, 1 par""",2.96,214,30,48
+446,Kabel solarni 6 mm² crn 25 m,"""Solarni kabel 6 mm² crn, rola 25 m, UV otporan""",23.57,58,30,48
+447,Reflektor solarni 3000 lm senzor,"""Solarni LED reflektor 3000 lm, PIR senzor, daljinski""",42.64,76,30,48
+448,Tuš solarni vrtni 35 l,"""Vrtni solarni tuš kapaciteta 35 l, crni ABS""",119.48,21,30,48
+449,Generator solarni prijenosni 500 Wh,"""Prijenosna solarna stanica 500 Wh, AC/DC/USB izlazi""",319.87,17,30,48
+450,Montažni set krovni 30 mm,"""Krovni montažni set za panele 30 mm, inox vijci""",52.78,64,30,48
+451,Grablje metalne 14 zuba,"""Metalne grablje s 14 zakrivljenih zuba, širina 35 cm""",5.87,132,11,25
+452,Lopatica vrtna set 3/1,"""Set od 3 ručne lopatice različitih veličina, čelik + plastika""",7.12,98,11,25
+453,Škare za grane teleskopske 3m,"""Teleskopske škare za grane do 3 m, oštrice SK5 čelik""",24.38,64,11,25
+454,Rukavice nitril vrtne L,"""Nitrilne vrtne rukavice protiv probijanja, veličina L""",3.29,217,11,25
+455,Sadilica lukovica čelična,"""Čelična sadilica za lukovice promjera 6 cm""",4.86,88,11,25
+456,Košara za lišće sklopiva 120l,"""Sklopiva košara za vrtni otpad, zapremine 120 l""",9.47,76,11,25
+457,Kolica ručna dvosmjerna 120kg,"""Preklopna vrtna kolica, nosivost 120 kg""",42.73,39,11,25
+458,Crpka ručna vrtna 7l,"""Ručna tlačna prskalica 7 l, maksimalni tlak 3 bar""",13.26,140,11,25
+459,Termometar tla i vlage 2u1,"""Digitalni mjerač temperature i vlage tla, sonda 20 cm""",11.58,122,11,25
+460,Gnojivo univerzalno 1kg,"""Granulirano NPK gnojivo za vrtne i sobne biljke, 1 kg""",2.84,253,11,25
+461,Aparat za palačinke 1000W,"""Električni pekač promjera 30 cm, neprianjajuća ploča""",29.64,55,12,27
+462,Sokovnik centrifugalni 800W,"""Centrifugalni sokovnik inox, otvor 75 mm, 800 W""",46.22,48,12,27
+463,Friteza hot-air 3.5 l 1500W,"""„Air-fryer” 3.5 l, raspon 80–200 °C, 1500 W""",73.15,67,12,27
+464,Kuhalo sporo 4.7 l 240W,"""Slow-cooker keramička posuda 4.7 l, 3 programa""",39.28,42,12,27
+465,Vakumirka 120W + vrećice,"""Vakuum sealer 120 W, uključuje 10 vrećica 20×30 cm""",34.87,96,12,27
+466,Aparat za jogurt 1.2 l,"""Stolni aparat za 7 staklenki jogurta, ukupno 1.2 l""",27.49,73,12,27
+467,Mlinac za kavu 200W inox,"""Električni mlinac 200 W, spremnik 75 g, nož od inoxa""",18.36,142,12,27
+468,Kuhalo za rižu 1 l 400W,"""Auto-kuhalo za rižu 1 l, funkcija toplog držanja""",25.79,88,12,27
+469,Aparat za popcorn 1200W,"""Aparat za kokice na vrući zrak, bez ulja, 1200 W""",24.14,101,12,27
+470,Aparat sous-vide štap 1000W,"""Sous-vide cirkulator 1000 W, raspon 20–95 °C""",52.68,60,12,27
+471,Knjiga 'Zločin i kazna',"""F. Dostojevski, tvrdi uvez, 656 str.""",11.89,85,13,29
+472,Knjiga 'Lovac u žitu',"""J. D. Salinger, meki uvez, 208 str.""",7.46,138,13,29
+473,Knjiga 'Harry Potter i Kamen mudraca',"""J. K. Rowling, meki uvez, 336 str.""",9.28,172,13,29
+474,Gospodar prstenova: Družina Prstena,"""J. R. R. Tolkien, tvrdi uvez, 576 str.""",12.95,91,13,29
+475,Priručnik 'Montessori kod kuće',"""Aktivnosti po Montessori metodi, 304 str.""",14.26,67,13,29
+476,Kratka povijest gotovo svega,"""Bill Bryson, meki uvez, 592 str.""",11.78,59,13,29
+477,Leksikon mitova i legendi,"""Ilustrirani leksikon svjetskih mitova, 512 str.""",18.34,42,13,29
+478,Rječnik eng-hrv 2025,"""Englesko-hrvatski rječnik, 45 000 natuknica""",16.57,105,13,29
+479,Strip 'Asterix Gal',"""Goscinny & Uderzo, tvrdi uvez, 48 str.""",5.92,128,13,29
+480,Slikovnica 'Ježeva kućica',"""Branko Ćopić, tvrdi uvez, 32 str.""",4.11,149,13,29
+481,Suknja pencil crna M,"""Ženska pencil suknja do koljena, veličina M""",18.24,64,14,31
+482,Košulja lanena muška L,"""100 % lan, dugi rukav, veličina L""",29.37,73,14,31
+483,Jakna puffer ženska S,"""Vodoodbojna puffer jakna, veličina S""",64.56,52,14,31
+484,Tenisice sportske br. 40,"""Sportske tenisice mesh gornjište, broj 40""",49.21,112,14,31
+485,Torba crossbody kožna smeđa,"""Kožna torbica 22×18 cm, smeđa""",38.47,78,14,31
+486,Pojas kožni 110 cm crni,"""Kožni pojas 110 cm, klasična kopča""",12.83,97,14,31
+487,Čizme gumene br. 38,"""Ženske gumene čizme za kišu, broj 38""",22.94,84,14,31
+488,Šal vuneni karirani,"""Šal od 100 % vune, 180×30 cm, karirani uzorak""",17.68,109,14,31
+489,Rukavice kožne muške L,"""Muške kožne rukavice, postava flis, veličina L""",26.39,66,14,31
+490,Čarape termo merino 2/1,"""Dva para merino termo čarapa 41-44""",9.42,142,14,31
+491,Ormar za cipele 60×120,"""Ormarić za obuću 4 preklopna vrata, 60×120×24 cm""",109.82,28,15,33
+492,Radni stol 140×60 bijeli,"""Radni stol MDF bijeli, metalne noge, 140×60×75 cm""",135.64,25,15,33
+493,Regal za knjige 5 polica,"""Samostojeći regal 190×70 cm, sonoma hrast""",89.37,41,15,33
+494,Stolić noćni okrugli Ø40,"""Noćni stolić Ø 40 cm, metalni okvir + drvena ploča""",56.48,57,15,33
+495,Vitrina staklena 2 vrata,"""LED vitrina visina 180 cm, staklo + MDF""",259.74,16,15,33
+496,Komoda TV 160 cm hrast,"""TV komoda hrast artisan, dužina 160 cm""",142.83,22,15,33
+497,Barska stolica crna metalna,"""Barska stolica, metalni okvir, sjedalo eko-koža""",58.27,68,15,33
+498,Klizna vrata set 210 cm,"""Set bijelih kliznih vrata 210×90 cm + okov""",189.64,19,15,33
+499,Krevetić dijete 120×60,"""Drveni krevetić, podesiva podnica, 120×60 cm""",149.73,27,15,33
+500,Tepih vuneni 160×230,"""Ručni rad, 100 % vuna, 160×230 cm, krem boja""",184.29,14,15,33

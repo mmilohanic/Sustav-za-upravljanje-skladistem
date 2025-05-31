@@ -1,0 +1,51 @@
+id,ime,prezime,pozicija,datum_zaposlenja
+1,Damir,Jukić,Direktor,2015-07-11
+2,Nives,Grgić,Skladišni radnik,2015-09-01
+3,Emanuel,Matošević,Održavanje,2015-10-13
+4,Kristina,Koprivnjak,Skladišni radnik,2015-11-07
+5,Bruno,Galić,Skladišni radnik,2016-02-20
+6,Ivan,Lončar,Skladišni radnik,2016-03-07
+7,Danijel,Turković,Skladišni radnik,2016-05-15
+8,Katarina,Raić,Nadzornik smjene,2016-07-05
+9,Željka,Sesar,Kontrola zaliha,2016-08-22
+10,Luka,Horvat,Voditelj skladišta,2016-11-30
+11,Milena,Radić,Administrativni radnik,2016-12-20
+12,Ivana,Pervan,Administrativni radnik,2017-01-18
+13,Helena,Ilijić,Skladišni radnik,2017-04-03
+14,Antonio,Perić,Održavanje,2017-06-15
+15,Tomislav,Lešić,Skladišni radnik,2017-08-14
+16,Karla,Đurić,Skladišni radnik,2017-10-19
+17,Barbara,Župan,Nadzornik smjene,2017-12-29
+18,Maja,Crnković,Skladišni radnik,2018-01-22
+19,Kristijan,Majer,Nadzornik smjene,2018-03-01
+20,Matej,Barišić,Skladišni radnik,2018-04-21
+21,Ivona,Petrović,Viličarist,2018-10-03
+22,Nikola,Soldo,Skladišni radnik,2018-12-04
+23,Ivana,Kovačević,Skladišni radnik,2019-02-08
+24,Mile,Skender,IT,2019-03-03
+25,Mario,Matković,Viličarist,2019-04-11
+26,Nikolina,Obradović,Kontrola zaliha,2019-05-19
+27,Sandra,Radić,Skladišni radnik,2019-07-17
+28,Lorena,Katušić,Nadzornik smjene,2019-08-09
+29,Tea,Marinović,Skladišni radnik,2019-09-26
+30,Dominik,Knezić,Viličarist,2020-01-15
+31,Marko,Zubčić,Skladišni radnik,2020-03-31
+32,Filip,Knežević,Voditelj skladišta,2020-06-12
+33,Marija,Jurić,Skladišni radnik,2020-08-10
+34,Anamarija,Dominković,IT,2020-10-07
+35,Tin,Pavlović,Skladišni radnik,2020-11-22
+36,Ema,Vuković,Skladišni radnik,2021-01-09
+37,Petar,Božić,Skladišni radnik,2021-05-03
+38,Sven,Posavec,Nadzornik smjene,2021-06-30
+39,Tamara,Knezović,Viličarist,2021-07-29
+40,Josip,Šimić,Skladišni radnik,2021-09-23
+41,Tamara,Kožul,Administrativni radnik,2021-11-12
+42,Leon,Orešković,Kontrola zaliha,2022-02-05
+43,Martina,Marić,Administrativni radnik,2022-04-27
+44,Renata,Bašić,Skladišni radnik,2022-06-18
+45,Anita,Novak,Skladišni radnik,2022-12-14
+46,Tamara,Milinović,Skladišni radnik,2023-01-26
+47,Dario,Vlašić,Nadzornik smjene,2023-02-16
+48,Saša,Lazić,Kontrola zaliha,2023-03-27
+49,Stjepan,Bogdan,Skladišni radnik,2023-05-08
+50,Domagoj,Kraljević,Skladišni radnik,2023-10-05

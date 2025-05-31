@@ -1,0 +1,51 @@
+id,naziv_tvrtke,oib,kontakt_telefon,email,drzava,grad,ulica,postanski_broj
+1,Orion Trade d.o.o.,83749478913,+385 1 338 8496,info@orion-trade.hr,Hrvatska,Zagreb,Radnička cesta 45,10000
+2,Aurora Export d.o.o.,87682810754,+385 21 753 2871,info@aurora-export.hr,Hrvatska,Split,Poljička cesta 37,21000
+3,Delta Supplies d.o.o.,46952721923,+385 51 112 2691,info@delta-supplies.hr,Hrvatska,Rijeka,Riva 10,51000
+4,Vega Solutions d.o.o.,25187984005,+385 31 769 7848,info@vega-solutions.hr,Hrvatska,Osijek,Kapucinska ulica 8,31000
+5,Terra Logistic d.o.o.,58834555400,+385 42 118 4514,info@terra-logistic.hr,Hrvatska,Varaždin,Zagrebačka 11,42000
+6,Adria Tech d.o.o.,41003814027,+385 23 727 0482,info@adria-tech.hr,Hrvatska,Zadar,Ulica bana Jelačića 22,23000
+7,Solaris Agro d.o.o.,61937947921,+385 52 914 8932,info@solaris-agro.hr,Hrvatska,Pula,Carrarina 3,52100
+8,Magnus Foods d.o.o.,60884600851,+385 35 628 8095,info@magnus-foods.hr,Hrvatska,Slavonski Brod,Masarykova 19,35000
+9,Borealis Auto d.o.o.,20215727379,+385 22 801 5430,info@borealis-auto.hr,Hrvatska,Šibenik,Obala hrvatske mornarice 4,22000
+10,Vector Media d.o.o.,77239597077,+385 47 491 1718,info@vector-media.hr,Hrvatska,Karlovac,Maksimilijana Vrhovca 2,47000
+11,Polaris Systems d.o.o.,83169426187,+385 40 327 8248,info@polaris-systems.hr,Hrvatska,Čakovec,Matice hrvatske 5,40000
+12,Feniks Metal d.o.o.,29447629889,+385 48 738 3465,info@feniks-metal.hr,Hrvatska,Koprivnica,Florijanski trg 14,48000
+13,Rubikon Pharma d.o.o.,18905472494,+385 32 887 1331,info@rubikon-pharma.hr,Hrvatska,Vinkovci,Gundulićeva 7,32100
+14,Helios Networks d.o.o.,14576679112,+385 20 609 8393,info@helios-networks.hr,Hrvatska,Dubrovnik,Ulica od Puča 18,20000
+15,Arcus Consult d.o.o.,73657266642,+385 43 110 3105,info@arcus-consult.hr,Hrvatska,Bjelovar,Trg Eugena Kvaternika 3,43000
+16,Kronos Textil d.o.o.,32374005241,+385 34 509 6784,info@kronos-textil.hr,Hrvatska,Požega,Vučjak 12,34000
+17,Titan Energetika d.o.o.,80357427964,+385 44 405 2667,info@titan-energetika.hr,Hrvatska,Sisak,Ulica Stjepana i Antuna Radića 9,44000
+18,Allegro Servis d.o.o.,92717473531,+385 1 704 9253,info@allegro-servis.hr,Hrvatska,Samobor,Perkovčeva 6,10430
+19,Mediteran Marine d.o.o.,31262115858,+385 51 939 4710,info@mediteran-marine.hr,Hrvatska,Opatija,Maršala Tita 24,51410
+20,Alpina Print d.o.o.,11846994022,+385 49 680 5527,info@alpina-print.hr,Hrvatska,Krapina,Frana Galovića 17,49000
+21,Baltic Trading AB,83128415155,+46 8 347 3178,info@baltictrading.se,Švedska,Stockholm,Sveavägen 12,11157
+22,Danubius Steel d.o.o.,71323429689,+421 2 208 0132,info@danubius-steel.sk,Slovačka,Bratislava,Námestie SNP 5,81101
+23,AlpTech GmbH,42456852025,+43 316 777 0360,info@alptech.at,Austrija,Graz,Herrengasse 3,8010
+24,Riviera Hotels d.d.,17627861561,+386 1 360 6474,info@riviera-hotels.si,Slovenija,Ljubljana,Slovenska cesta 15,1000
+25,Iberia Wines S.L.,34935803837,+34 93 787 2343,info@iberiawines.es,Španjolska,Barcelona,Carrer de Mallorca 201,08036
+26,Carpathia Wood s.r.l.,24083263619,+40 264 912 870,info@carpathia-wood.ro,Rumunjska,Cluj-Napoca,Strada Memorandumului 9,400114
+27,Skandinavian Design Oy,39768772183,+358 9 452 1093,info@skandidesign.fi,Finska,Helsinki,Aleksanterinkatu 1,00100
+28,Lusitan Pharma Lda.,62953082015,+351 22 602 4785,info@lusitan-pharma.pt,Portugal,Porto,Rua de Cedofeita 100,4050-174
+29,Pannonian Seeds d.o.o.,55096287706,+381 21 587 9341,info@pannonian-seeds.rs,Srbija,Novi Sad,Bulevar Mihajla Pupina 8,21000
+30,Polonia Electronics Sp. z o.o.,91755020754,+48 22 451 7846,info@polonia-electronics.pl,Poljska,Varšava,Aleje Jana Pawła II 12,00-124
+31,Hellenic Food S.A.,47314609201,+30 21 864 2095,info@hellenicfood.gr,Grčka,Atena,Ermou 34,10563
+32,Celtic Textiles Ltd.,29287315434,+353 1 789 3640,info@celtic-textiles.ie,Irska,Dublin,O'Connell Street 12,D01 F5P2
+33,Baltic Sea Logistics UAB,16580391028,+370 5 716 2849,info@balticsea-logistics.lt,Litva,Vilnius,Gedimino pr. 9,LT-01103
+34,Adriatic Stone d.o.o.,36462745173,+385 21 414 5673,info@adriatic-stone.hr,Hrvatska,Split,Ulica Domovinskog rata 56,21000
+35,Dinaric Herbal d.o.o.,66573204014,+385 21 440 2958,info@dinaric-herbal.hr,Hrvatska,Makarska,Obala kralja Tomislava 15,21300
+36,Alpine Sports GmbH,70219836990,+43 512 648 903,info@alpine-sports.at,Austrija,Innsbruck,Maria-Theresien-Straße 25,6020
+37,Apennine Coffee S.r.l.,58073194326,+39 02 948 7165,info@apennine-coffee.it,Italija,Milano,Via Torino 16,20123
+38,Tyrol Automation GmbH,45989487095,+43 5352 587 040,info@tyrol-automation.at,Austrija,Kitzbühel,Vorderstadt 33,6370
+39,Gaul Media SARL,91359177700,+33 1 264 0524,info@gaulmedia.fr,Francuska,Pariz,Rue de Rivoli 18,75001
+40,IberTech Sistemas S.L.,18717912686,+34 91 378 6801,info@ibertech.es,Španjolska,Madrid,Calle Serrano 77,28006
+41,Liguria Shipping S.p.A.,70831350511,+39 010 228 0598,info@liguria-shipping.it,Italija,Genova,Via Garibaldi 12,16124
+42,Saxon Software GmbH,21616047600,+49 351 362 0450,info@saxon-software.de,Njemačka,Dresden,Prager Straße 9,01069
+43,Lothian Energy Ltd.,85490356742,+44 131 778 0642,info@lothian-energy.co.uk,Ujedinjeno Kraljevstvo,Edinburgh,Princes Street 88,EH2 2ER
+44,Dalmatia Olive Oil d.o.o.,34726688457,+385 21 661 3449,info@dalmatia-olive.hr,Hrvatska,Kaštel Novi,Antona Gustava Matoša 3,21217
+45,Rhone Trading SAS,52380361914,+33 4 950 31824,info@rhonetrading.fr,Francuska,Lyon,Rue de la République 45,69002
+46,Carniola Cheese d.o.o.,49203217605,+386 4 213 6175,info@carniola-cheese.si,Slovenija,Kranj,Glavni trg 2,4000
+47,Lusatia Plastics Sp. z o.o.,39570286432,+48 68 259 4073,info@lusatia-plastics.pl,Poljska,Zielona Góra,Ul. Bohaterów Westerplatte 11,65-034
+48,Ruthenian Steel s.r.o.,40167538963,+421 55 721 9306,info@ruthenian-steel.sk,Slovačka,Košice,Hlavná 26,04001
+49,Vojvodina Agro d.o.o.,53179024876,+381 24 432 1897,info@vojvodina-agro.rs,Srbija,Subotica,Korzo 1,24000
+50,Epirote Tourism S.A.,75569013821,+30 2651 755 869,info@epirote-tourism.gr,Grčka,Ioannina,Averof 3,45221
